@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'W1', 'text': '兩人一組做報告W2~W4完成並交付 \n 用LEO做BLOG \n \n', 'tags': '', 'url': 'W1.html'}]};
+var tipuesearch = {"pages": [{'title': 'W1', 'text': '兩人一組做報告W2~W4完成並交付 \n 用LEO做BLOG \n 將author修改成自己的名字 \n \n 傳送位置改成自己的cd2021並新增disqus論壇 \n \n blog內容撰寫處 \n', 'tags': '', 'url': 'W1.html'}]};
