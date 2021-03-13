@@ -21,6 +21,7 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210313222942.1"><vh>2-1</vh></v>
+<v t="leo.20210313224718.1"><vh>2-1</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -656,6 +657,17 @@ console.log( '"customevent" has fired' );
     &lt;p&gt;
        與組員討論後決定做投石機
        &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E4%B8%8B%E8%BC%89.jpg?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       
+       
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210313224718.1">&lt;section&gt;
+    &lt;h2&gt;作動方式&lt;/h2&gt;
+    &lt;p&gt;
+       投石器大多用繩子或槓桿原理來做動
+       我們打算直接用coppeliasim的joint來替代出力點
+       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%96.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
        
        
     &lt;/p&gt;
