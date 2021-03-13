@@ -224,6 +224,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;
        
     &lt;/p&gt;
+    @others
 &lt;/section&gt;
 
 </t>
@@ -654,6 +655,7 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;主題&lt;/h2&gt;
     &lt;p&gt;
        與組員討論後決定做投石機
+       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E4%B8%8B%E8%BC%89.jpg?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
        
        
     &lt;/p&gt;
