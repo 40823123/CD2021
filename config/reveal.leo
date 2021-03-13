@@ -19,7 +19,9 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh>
+<v t="leo.20210313222942.1"><vh>2-1</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -212,16 +214,15 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;&lt;/a&gt;組員&lt;a href="https://40823136.github.io/cd2021/content/index.html"&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;創作題目&lt;/h2&gt;
+    &lt;h2&gt;W2進度&lt;/h2&gt;
     &lt;p&gt;
-       名稱:投石機
-       動機:前陣子在看文藝復興相關的影集,裡面的投石機很酷
+       
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -647,6 +648,14 @@ console.log( '"customevent" has fired' );
     &lt;p&gt;
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210313222942.1">&lt;section&gt;
+    &lt;h2&gt;主題&lt;/h2&gt;
+    &lt;p&gt;
+       與組員討論後決定做投石機
+       
+       
     &lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
