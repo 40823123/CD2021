@@ -18,10 +18,11 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20200818170328.1"><vh>slide 1</vh>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210313222942.1"><vh>2-1</vh></v>
 <v t="leo.20210313224718.1"><vh>2-1</vh></v>
+</v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -215,7 +216,7 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;&lt;/a&gt;組員&lt;a href="https://40823136.github.io/cd2021/content/index.html"&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;組員&lt;/a&gt;&lt;a href="https://40823136.github.io/cd2021/content/index.html"&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
