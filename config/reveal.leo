@@ -21,7 +21,7 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210313222942.1"><vh>2-1</vh></v>
-<v t="leo.20210313224718.1"><vh>2-1</vh></v>
+<v t="leo.20210313224718.1"><vh>2-2</vh></v>
 </v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
@@ -216,7 +216,7 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;組員&lt;/a&gt;&lt;a href="https://40823136.github.io/cd2021/content/index.html"&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;&lt;/a&gt;組員&lt;a href="https://40823136.github.io/cd2021/content/index.html"&lt;/small&gt;&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -666,7 +666,7 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;作動方式&lt;/h2&gt;
     &lt;p&gt;
        投石器大多用繩子或槓桿原理來做動
-       我們打算直接用coppeliasim的joint來替代出力點
+       我們打算直接用coppeliasim的joint來替代出力點&lt;/p&gt;
        &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%96.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
        &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
        
