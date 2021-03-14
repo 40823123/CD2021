@@ -23,8 +23,10 @@
 <v t="leo.20210314145221.1"><vh>slide2-0</vh></v>
 <v t="leo.20210313222942.1"><vh>slide2-1</vh></v>
 <v t="leo.20210313224718.1"><vh>slide2-2</vh></v>
+<v t="leo.20210314181213.1"><vh>slide2-3</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
+<v t="leo.20210314180530.1"><vh>slide 3-0</vh></v>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
@@ -242,18 +244,14 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;實物模擬&lt;/h2&gt;
+    &lt;p&gt;利用coppeliasim第一次測試&lt;/p&gt;
+    &lt;a&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RRznqvxBcuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt; &lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;第一次測試問題&lt;/h2&gt;
+    &lt;p&gt;無法精準的將球體丟置理想位置達到全倒的成果,考慮將沙包改形狀或後方輪胎直徑增大&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
@@ -672,5 +670,13 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210314145221.1">&lt;section&gt;
     &lt;h2&gt;W2進度&lt;/h2&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210314180530.1">&lt;section&gt;
+    &lt;h2&gt;W3進度&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314181213.1">&lt;section&gt;
+    &lt;h2&gt;繪製投石機&lt;/h2&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RjVcg4wXsw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
