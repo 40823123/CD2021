@@ -18,11 +18,11 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh>
+<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
-<v t="leo.20210313222942.1"><vh>2-1</vh></v>
-<v t="leo.20210313224718.1"><vh>2-2</vh></v>
-</v>
+<v t="leo.20210314145221.1"><vh>slide2-0</vh></v>
+<v t="leo.20210313222942.1"><vh>slide2-1</vh></v>
+<v t="leo.20210313224718.1"><vh>slide2-2</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -212,20 +212,16 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    40823123簡報
-    &lt;/a&gt;
-    &lt;h3&gt;&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;小組網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;&lt;/a&gt;組員&lt;a href="https://40823136.github.io/cd2021/content/index.html"&lt;/small&gt;&lt;/a&gt;
-    &lt;/p&gt;
+   &lt;h3&gt; 40823123簡報&lt;/h3&gt;
+    
+    
+        &lt;small&gt;&lt;p&gt;Created by &lt;a href="https://40823123.github.io/cd2021/"&gt;我的網站&lt;/a&gt; &lt;a href="https://40823123.github.io/stage1-ag19/"&gt;小組網站&lt;/a&gt;&lt;a href="https://40823136.github.io/cd2021/content/index.html"&gt;組員&lt;/a&gt;&lt;/p&gt;&lt;/small&gt;
+    
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;W2進度&lt;/h2&gt;
-    &lt;p&gt;
-       
-    &lt;/p&gt;
+<t tx="leo.20200818170535.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
     @others
 &lt;/section&gt;
 
@@ -667,11 +663,14 @@ console.log( '"customevent" has fired' );
     &lt;p&gt;
        投石器大多用繩子或槓桿原理來做動
        我們打算直接用coppeliasim的joint來替代出力點&lt;/p&gt;
-       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%96.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
-       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%962.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%96.png?raw=true" alt="" width="400" height="300"&gt;
+       &lt;img src="https://github.com/40823123/cd2021/blob/main/images/%E5%81%B4%E8%A6%96%E5%9C%962.png?raw=true" alt="" width="400" height="300"&gt;&lt;/p&gt;
        
        
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314145221.1">&lt;section&gt;
+    &lt;h2&gt;W2進度&lt;/h2&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
