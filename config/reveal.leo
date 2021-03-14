@@ -680,9 +680,10 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;
 </t>
 <t tx="leo.20210314231536.1">&lt;section&gt;
-    &lt;h2&gt;&lt;/h2&gt;
-   
-    &lt;p&gt;&lt;img src="&lt;img alt="" height="338" src="/images/2.png" width="548"&gt;" &lt;/p&gt;
+    &lt;h2&gt;最初草圖&lt;/h2&gt;
+   &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/2.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+       
+    
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
