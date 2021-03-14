@@ -23,7 +23,8 @@
 <v t="leo.20210314145221.1"><vh>slide2-0</vh></v>
 <v t="leo.20210313222942.1"><vh>slide2-1</vh></v>
 <v t="leo.20210313224718.1"><vh>slide2-2</vh></v>
-<v t="leo.20210314181213.1"><vh>slide2-3</vh></v>
+<v t="leo.20210314231536.1"><vh>slide2-3</vh></v>
+<v t="leo.20210314181213.1"><vh>slide2-4</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20210314180530.1"><vh>slide 3-0</vh></v>
@@ -674,9 +675,14 @@ console.log( '"customevent" has fired' );
     &lt;h2&gt;W3進度&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210314181213.1">&lt;section&gt;
-    &lt;h2&gt;繪製投石機&lt;/h2&gt;
+    &lt;h2&gt;繪製投石機2.0&lt;/h2&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RjVcg4wXsw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210314231536.1">&lt;section&gt;
+    &lt;h2&gt;&lt;/h2&gt;
+   
+    &lt;p&gt;&lt;img src="&lt;img alt="" height="338" src="/images/2.png" width="548"&gt;" &lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
