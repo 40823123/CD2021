@@ -32,7 +32,9 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210317131249.1"><vh>slide4-1</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -236,9 +238,9 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W4&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        
     &lt;/p&gt;
 
 &lt;/section&gt;
@@ -684,6 +686,13 @@ console.log( '"customevent" has fired' );
    &lt;p&gt;&lt;img src="https://github.com/40823123/cd2021/blob/main/images/2.png?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
        
     
+&lt;/section&gt;</t>
+<t tx="leo.20210317131249.1">&lt;section&gt;
+    &lt;h2&gt;產品設計報告&lt;/h2&gt;
+    &lt;p&gt;
+        &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1F2QnKiK1PEwBbCzvEWrdgl_EwHinTfI3/view?usp=sharing" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/p&gt;
+
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
