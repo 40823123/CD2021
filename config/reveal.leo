@@ -240,7 +240,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
     &lt;h2&gt;W4&lt;/h2&gt;
     &lt;p&gt;
-        
+          @others
     &lt;/p&gt;
 
 &lt;/section&gt;
