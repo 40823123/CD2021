@@ -31,6 +31,9 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210317132633.1"><vh>slide3-4</vh></v>
+<v t="leo.20210317132633.2"><vh>slide3-5</vh></v>
+<v t="leo.20210317133254.1"><vh>slide3-6</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh>
 <v t="leo.20210317132111.1"><vh>slide4-0</vh></v>
@@ -258,12 +261,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;第二次測試&lt;/h2&gt;
+    &lt;a&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/r3D9ZccdB6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt; &lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
@@ -697,5 +696,17 @@ console.log( '"customevent" has fired' );
 
 &lt;/section&gt;
 </t>
+<t tx="leo.20210317132633.1">&lt;section&gt;
+    &lt;h2&gt;第二次測試問題&lt;/h2&gt;
+    &lt;p&gt;沒想到輪子配重問題,使整台車重心不穩導致球體未達到理想的地方&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317132633.2">&lt;section&gt;
+    &lt;h2&gt;第三次測試&lt;/h2&gt;
+  &lt;a&gt; &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AjqtpE51k1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317133254.1">&lt;section&gt;
+    &lt;h2&gt;第三次測試問題&lt;/h2&gt;
+    &lt;p&gt;用solidwork製作的城牆到coppeliasim後需要進行拘束的動作來達到物體不會穿透的地步,但是拘束後卻無法將他擊垮但是投石的力道與準確度已經達成&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
