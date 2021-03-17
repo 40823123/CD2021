@@ -33,6 +33,7 @@
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210317132111.1"><vh>slide4-0</vh></v>
 <v t="leo.20210317131249.1"><vh>slide4-1</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -237,11 +238,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;W4&lt;/h2&gt;
-    &lt;p&gt;
-          @others
-    &lt;/p&gt;
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
+
+&lt;section&gt;
+ @others
 
 &lt;/section&gt;
 
@@ -694,5 +694,10 @@ console.log( '"customevent" has fired' );
     &lt;/p&gt;
 
 &lt;/section&gt;</t>
+<t tx="leo.20210317132111.1">&lt;section&gt;
+    &lt;h2&gt;W4&lt;/h2&gt;
+
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
