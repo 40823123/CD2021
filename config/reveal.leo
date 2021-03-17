@@ -688,7 +688,7 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210317131249.1">&lt;section&gt;
     &lt;h2&gt;產品設計報告&lt;/h2&gt;
-        &lt;p&gt;&lt;iframe height="https://drive.google.com/file/d/1BlcDNj58LyIoC8g5-watsF_PmFCRPkbv/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;iframe height="620" src="https://drive.google.com/file/d/1BlcDNj58LyIoC8g5-watsF_PmFCRPkbv/preview" width="550"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210317132111.1">&lt;section&gt;
