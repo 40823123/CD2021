@@ -353,7 +353,10 @@ function insertBox()
 end
 </pre>
 <p></p>
-<p></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ANmgoVB-uCE" title="YouTube video player" width="560"></iframe></p>
+<p>p:吸盤吸取  Q:吸盤取消</p>
+<p>R:逆時鐘轉  L:順時鐘轉</p>
+<p>D:伸下去吸  U:伸上去</p>
 <p></p>
 <p>四.逆向運動學函式</p>
 <p><a href="https://drive.google.com/drive/folders/1bLnuDnym6sFohvNSjX-7gGH-V6I1P3OV?usp=sharing">skr.lua</a>  <a href="https://drive.google.com/file/d/15Hdl4zBSo5jb7JNdg3SR5xLv8fTKBU44/view?usp=sharing">coppeliasim</a></p>
@@ -363,7 +366,63 @@ end
 <p><img alt="" height="635" src="/images/第一座標.jpg" width="286"/></p>
 <p><span>(-0.3, -0.55, 0.05)</span></p>
 <p><img alt="" height="627" src="/images/第二座標.jpg" width="282"/></p>
-<p>五.</p>
+<p>五.Python remote API逆向運算學函式</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import sim as vrep
+import sys
+import time
+import math
+
+vrep.simxFinish(-1)
+clientID = vrep.simxStart('127.0.0.1', 19997, True, True, 5000, 5)
+
+if clientID!= -1:
+    print("Connected to remote server")
+else:
+    print('Connection not successful')
+    
+    vrep.simxStartSimulation(clientID, vrep.simx_opmode_oneshot)
+
+def move(j1,j2,j3):
+    ret,joint1=vrep.simxGetObjectHandle(clientID,"joint1",vrep.simx_opmode_blocking)
+    ret,joint2=vrep.simxGetObjectHandle(clientID,"joint2",vrep.simx_opmode_blocking)
+    ret,joint3=vrep.simxGetObjectHandle(clientID,"joint3",vrep.simx_opmode_blocking)
+    jointHandle=[joint1,joint2,joint3]
+    j=[j1*math.pi/180,j2*math.pi/180,j3*math.pi/180]
+    for i in range(3):
+        vrep.simxSetJointPosition(clientID,jointHandle[i],j[i],vrep.simx_opmode_oneshot)
+        time.sleep(0.5)
+def suck():
+    vrep.simxSetIntegerSignal(clientID,"activity",1,vrep.simx_opmode_oneshot_wait)
+def quit():
+    vrep.simxSetIntegerSignal(clientID,"activity",0,vrep.simx_opmode_oneshot_wait)
+
+
+
+while True:
+    move(0,0,0)
+    quit()
+    move(0,0,1.75)
+    suck()
+    move(0,0,0)
+    move(43.79,-66.2053,0)
+    quit()
+    move(0,0,0)
+    move(43.79,-66.2053,0)
+    move(43.79,-66.2053,1.75)
+    suck()
+    move(43.79,-66.2053,0)
+    move(0,0,0)
+    move(-158.2529,-87.7894,0)
+    quit()
+    move(0,0,0)
+    move(-158.2529,-87.7894,0)
+    move(-158.2529,-87.7894,1.75)
+    suck()
+    move(-158.2529,-87.7894,0)
+
+</pre>
+<p class="title style-scope ytd-video-primary-info-renderer"><br/><br/></p>
 <p></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/E9zXl6rYYIc" title="YouTube video player" width="560"></iframe></p>
 <p></p>
 <p></p>
